@@ -1,5 +1,5 @@
 spring:
   application:
     name: eur-register-demo
-  http:
-    encoding: { charset: UTF-8, enable: true, force: true }
+  #http:
+    #encoding: { charset: UTF-8, enable: true, force: true }
